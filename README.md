@@ -9,11 +9,23 @@ Um projeto com objetivo de consolidar os conhecimentos sobre mongodb, nele possu
 
 # Instruções da aplicação
 
+### Rodando aplicação na maquina
+
 ```
 cd mongodb-commerce
 npm install
 cd challenges
 ```
+
+### Rodando aplicação com docker
+
+```
+cd mongodb-commerce
+npm install
+docker-compose up
+cd challenges
+```
+
 ## Observação
 ```
 Deve ser feito tudo dentro da pasta challenges
