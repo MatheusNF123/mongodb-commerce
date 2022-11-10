@@ -16,7 +16,8 @@ cd challenges
 ```
 ## Observação
 ```
-Cada requisito, representa 1 desafio
+Deve ser feito tudo dentro da pasta challenges
+Crie um arquivo para cada requisito com o nome " (desafioN), onde N e o numero do requisito " 
 ```
 <details>
 <summary>Exemplo</summary>
